@@ -113,10 +113,10 @@
   }
 
   .typewriter {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
     margin: 30px auto;
     padding: 20px 50px;
     width: 40%;
@@ -144,40 +144,40 @@
   }
 
 
-.d1{
+.CarmenBW .d1{
     position: absolute;
     top: 20%;
     left: 20%;
     z-index: 0;
 }
 
-.d2{
+.CarmenBW .d2{
     position: absolute;
     top: 10%;
     left: 5%;
 }
 
-.d3{
+.CarmenBW .d3{
     position: absolute;
     top: 6%;
     left: 80%;
     transform: rotate(20deg);
 }
 
-.d4{
+.CarmenBW .d4{
     position: absolute;
     top: 80%;
     left: 70%;
 }
 
-.d5{
+.CarmenBW .d5{
     position: absolute;
     top: 40%;
     left: 36%;
     z-index: 3;
 }
 
-.d6{
+.CarmenBW .d6{
     position: absolute;
     top: 75%;
     left: 4%;
@@ -185,14 +185,14 @@
     z-index: 11;
 }
 
-.d7{
+.CarmenBW .d7{
     position: absolute;
     top: 70%;
     left: 40%;
     z-index: 3;
 }
 
-.d8{
+.CarmenBW .d8{
     position: absolute;
     top: 30%;
     left: 60%;
