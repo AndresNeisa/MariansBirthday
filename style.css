@@ -6,17 +6,17 @@
 
 @font-face {
     font-family: "Escort";
-    src: url("/Fonts/Escort.ttf") format('truetype');
+    src: url("./Fonts/Escort.ttf") format('truetype');
 }
 
 @font-face {
     font-family: "Magic";
-    src: url("/Fonts/Magic.ttf") format('truetype');
+    src: url("./Fonts/Magic.ttf") format('truetype');
 }
 
 @font-face {
     font-family: "bodaFont";
-    src: url("/Fonts/Boda.ttf") format('truetype');
+    src: url("./Fonts/Boda.ttf") format('truetype');
 }
 
 @keyframes shake {
