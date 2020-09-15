@@ -1,0 +1,539 @@
+.CarmenBW .d1{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    z-index: 0;
+}
+.CarmenBW .d2{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+}
+.CarmenBW .d3{
+    position: absolute;
+    top: 6%;
+    left: 80%;
+    transform: rotate(20deg);
+}
+.CarmenBW .d4{
+    position: absolute;
+    top: 80%;
+    left: 70%;
+}
+.CarmenBW .d5{
+    position: absolute;
+    top: 40%;
+    left: 36%;
+    z-index: 3;
+}
+.CarmenBW .d6{
+    position: absolute;
+    top: 75%;
+    left: 4%;
+    transform: rotate(-40deg);
+    z-index: 11;
+}
+.CarmenBW .d7{
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    z-index: 3;
+}
+.CarmenBW .d8{
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    z-index: 0;
+}
+
+.DonCarlosBW .d1{
+    position: absolute;
+    top: 28%;
+    left: 20%;
+    z-index: 10;
+    transform: rotate(30deg);
+}
+.DonCarlosBW .d2{
+    position: absolute;
+    top: 35%;
+    left: 12%;
+    z-index: 0;
+    transform: rotate(-50deg);
+}
+.DonCarlosBW .d3{
+    position: absolute;
+    top: 6%;
+    left: 80%;
+    transform: rotate(20deg);
+}
+.DonCarlosBW .d4{
+    position: absolute;
+    top: 72%;
+    left: 78%;
+}
+.DonCarlosBW .d5{
+    position: absolute;
+    top: 30%;
+    left: 28%;
+    z-index: 3;
+    transform: rotate(-160deg);
+}
+.DonCarlosBW .d6{
+    position: absolute;
+    top: -5%;
+    left: 6%;
+    z-index: 11;
+}
+.DonCarlosBW .d7{
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    z-index: 3;
+}
+.DonCarlosBW .d8{
+    position: absolute;
+    top: 20%;
+    left: 60%;
+    z-index: 0;
+    z-index: 3;
+    transform: rotate(20deg);
+}
+
+.DianaBW .d1{
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    z-index: 10;
+    transform: rotate(10deg);
+}
+.DianaBW .d2{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    z-index: 0;
+    transform: rotate(-20deg);
+}
+.DianaBW .d3{
+    position: absolute;
+    top: 6%;
+    left: 80%;
+    transform: rotate(20deg);
+}
+.DianaBW .d4{
+    position: absolute;
+    top: 72%;
+    left: 70%;
+    z-index: 3;
+}
+.DianaBW .d5{
+    position: absolute;
+    top: 40%;
+    left: 34%;
+    z-index: 3;
+    transform: rotate(-160deg);
+}
+.DianaBW .d6{
+    position: absolute;
+    top: 75%;
+    left: 6%;
+    z-index: 11;
+}
+.DianaBW .d7{
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    z-index: 3;
+}
+.DianaBW .d8{
+    position: absolute;
+    top: 22%;
+    left: 60%;
+    z-index: 0;
+    z-index: 3;
+    transform: rotate(20deg);
+}
+
+.TachaBW .d1{
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    z-index: 10;
+    transform: rotate(10deg);
+    
+}
+.TachaBW .d2{
+    position: absolute;
+    top: 0%;
+    left: 5%;
+    z-index: 0;
+    transform: rotate(-20deg);
+}
+.TachaBW .d3{
+    position: absolute;
+    top: 6%;
+    left: 80%;
+    transform: rotate(20deg);
+}
+.TachaBW .d4{
+    position: absolute;
+    top: 67%;
+    left: 80%;
+    z-index: 3;
+}
+.TachaBW .d5{
+    position: absolute;
+    top: 40%;
+    left: 34%;
+    z-index: 3;
+    transform: rotate(-160deg);
+}
+.TachaBW .d6{
+    position: absolute;
+    top: 75%;
+    left: 6%;
+    z-index: 11;
+}
+.TachaBW .d7{
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    z-index: 3;
+}
+.TachaBW .d8{
+    position: absolute;
+    top: 22%;
+    left: 60%;
+    z-index: 0;
+    z-index: 3;
+    transform: rotate(20deg);
+}
+
+.KatieBW .d1{
+    position: absolute;
+    top: 15%;
+    left: 35%;
+    z-index: 10;
+    transform: rotate(10deg);
+    
+}
+.KatieBW .d2{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    z-index: 0;
+    transform: rotate(-20deg);
+}
+.KatieBW .d3{
+    position: absolute;
+    top: 6%;
+    left: 80%;
+    transform: rotate(20deg);
+}
+.KatieBW .d4{
+    position: absolute;
+    top: 67%;
+    left: 80%;
+    z-index: 3;
+}
+.KatieBW .d5{
+    position: absolute;
+    top: 40%;
+    left: 34%;
+    z-index: 3;
+    transform: rotate(-160deg);
+}
+.KatieBW .d6{
+    position: absolute;
+    top: 75%;
+    left: 6%;
+    z-index: 11;
+}
+.KatieBW .d7{
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    z-index: 3;
+}
+.KatieBW .d8{
+    position: absolute;
+    top: 22%;
+    left: 60%;
+    z-index: 0;
+    z-index: 3;
+    transform: rotate(20deg);
+}
+
+.DorisBW .d1{
+    position: absolute;
+    top: 27%;
+    left: 20%;
+    z-index: 10;
+    transform: rotate(100deg);
+}
+.DorisBW .d2{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    z-index: 0;
+    transform: rotate(-20deg);
+}
+.DorisBW .d3{
+    position: absolute;
+    top: 10%;
+    left: 70%;
+    z-index: 9;
+    transform: rotate(10deg);
+}
+.DorisBW .d4{
+    position: absolute;
+    top: 75%;
+    left: 65%;
+    z-index: 11;
+}
+.DorisBW .d5{
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    z-index: 3;
+    transform: rotate(-160deg);
+}
+.DorisBW .d6{
+    position: absolute;
+    top: 70%;
+    left: 4%;
+    z-index: 11;
+}
+.DorisBW .d7{
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    z-index: 3;
+}
+.DorisBW .d8{
+    position: absolute;
+    top: 45%;
+    left: 55%;
+    z-index: 0;
+    z-index: 3;
+    transform: rotate(20deg);
+}
+
+.JorgeBW .d1{
+    position: absolute;
+    top: 32%;
+    left: 20%;
+    z-index: 10;
+    transform: rotate(100deg);
+}
+.JorgeBW .d2{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    z-index: 0;
+    transform: rotate(80deg);
+}
+.JorgeBW .d3{
+    position: absolute;
+    top: 10%;
+    left: 67%;
+    z-index: 9;
+    transform: rotate(-10deg);
+}
+.JorgeBW .d4{
+    position: absolute;
+    top: -10%;
+    left: 85%;
+    z-index: 11;
+}
+.JorgeBW .d5{
+    position: absolute;
+    top: 42%;
+    left: 45%;
+    z-index: 3;
+    transform: rotate(50deg);
+}
+.JorgeBW .d6{
+    position: absolute;
+    top: 70%;
+    left: 4%;
+    z-index: 11;
+    transform: rotate(-25deg);
+}
+.JorgeBW .d7{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    z-index: 3;
+}
+.JorgeBW .d8{
+    position: absolute;
+    top: 38%;
+    left: 62%;
+    z-index: 3;
+    transform: rotate(-10deg);
+}
+
+.EstebanBW .d1{
+    position: absolute;
+    top: 32%;
+    left: 20%;
+    z-index: 10;
+    transform: rotate(100deg);
+}
+.EstebanBW .d2{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    z-index: 0;
+    transform: rotate(0deg);
+}
+.EstebanBW .d3{
+    position: absolute;
+    top: 34%;
+    left: 82%;
+    z-index: 9;
+    transform: rotate(10deg);
+}
+.EstebanBW .d4{
+    position: absolute;
+    top: 5%;
+    left: 80%;
+    z-index: 11;
+}
+.EstebanBW .d5{
+    position: absolute;
+    top: 25%;
+    left: 45%;
+    z-index: 3;
+    transform: rotate(50deg);
+}
+.EstebanBW .d6{
+    position: absolute;
+    top: 70%;
+    left: 4%;
+    z-index: 11;
+    transform: rotate(-25deg);
+}
+.EstebanBW .d7{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    z-index: 3;
+}
+.EstebanBW .d8{
+    position: absolute;
+    top: 45%;
+    left: 60%;
+    z-index: 3;
+    transform: rotate(10deg);
+}
+
+.MelisBW .d1{
+    position: absolute;
+    top: 32%;
+    left: 20%;
+    z-index: 10;
+    transform: rotate(0deg);
+}
+.MelisBW .d2{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    z-index: 0;
+    transform: rotate(0deg);
+}
+.MelisBW .d3{
+    position: absolute;
+    top: 34%;
+    left: 82%;
+    z-index: 9;
+    transform: rotate(10deg);
+}
+.MelisBW .d4{
+    position: absolute;
+    top: 5%;
+    left: 80%;
+    z-index: 11;
+}
+.MelisBW .d5{
+    position: absolute;
+    top: 37%;
+    left: 45%;
+    z-index: 3;
+    transform: rotate(-80deg);
+}
+.MelisBW .d6{
+    position: absolute;
+    top: 70%;
+    left: 4%;
+    z-index: 11;
+    transform: rotate(-25deg);
+}
+.MelisBW .d7{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    z-index: 3;
+}
+.MelisBW .d8{
+    position: absolute;
+    top: 75%;
+    left: 85%;
+    z-index: 11;
+    transform: rotate(-70deg);
+}
+
+.MarlenBW .d1{
+    position: absolute;
+    top: 32%;
+    left: 20%;
+    z-index: 10;
+    transform: rotate(0deg);
+}
+.MarlenBW .d2{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    z-index: 0;
+    transform: rotate(0deg);
+}
+.MarlenBW .d3{
+    position: absolute;
+    top: 34%;
+    left: 82%;
+    z-index: 9;
+    transform: rotate(10deg);
+}
+.MarlenBW .d4{
+    position: absolute;
+    top: 5%;
+    left: 80%;
+    z-index: 11;
+}
+.MarlenBW .d5{
+    position: absolute;
+    top: 33%;
+    left: 45%;
+    z-index: 3;
+    transform: rotate(-80deg);
+}
+.MarlenBW .d6{
+    position: absolute;
+    top: 70%;
+    left: 4%;
+    z-index: 11;
+    transform: rotate(-25deg);
+}
+.MarlenBW .d7{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    z-index: 3;
+}
+.MarlenBW .d8{
+    position: absolute;
+    top: 75%;
+    left: 85%;
+    z-index: 11;
+    transform: rotate(-70deg);
+}

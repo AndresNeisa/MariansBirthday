@@ -53,7 +53,7 @@
     transform: rotate(-25deg);
 }
 
-.s1{
+.s1, .s12{
     background: rgb(47,6,80);
     background: linear-gradient(131deg, rgba(47,6,80,1) 13%, rgba(114,9,121,1) 87%);
     background-image: url(./Images/Title.png), linear-gradient(131deg, rgba(47,6,80,1) 13%, rgba(114,9,121,1) 87%);
@@ -62,21 +62,23 @@
     position: relative;
 }
 
-.s1 img:nth-child(1){
+.s1 img:nth-child(1), .s12 img:nth-child(1){
     position: absolute;
     top: 30px;
     left: 0px;
 }
 
-.s1 img:nth-child(1):hover{
-    filter: invert(100%);
-}
+ .s1 img, .s12 img{
+    animation: shake 0.5s;
+    animation-iteration-count: infinite;
+} 
 
-.s1 img:nth-child(2){
+.s1 img:nth-child(2), .s12 img:nth-child(2){
     position: absolute;
     bottom: 50px;
     right: 50px;
 }
+
 
 .content {
     width: 90%;
@@ -89,6 +91,13 @@
 .content img:hover{
     animation: shake 0.5s;
     animation-iteration-count: infinite;
+}
+
+.wrapper{
+    position: relative;
+    max-width: 1280px;
+    max-height: 800px;
+    margin: 0 auto;
 }
 
 
@@ -143,58 +152,3 @@
       z-index: 10;
   }
 
-
-.CarmenBW .d1{
-    position: absolute;
-    top: 20%;
-    left: 20%;
-    z-index: 0;
-}
-
-.CarmenBW .d2{
-    position: absolute;
-    top: 10%;
-    left: 5%;
-}
-
-.CarmenBW .d3{
-    position: absolute;
-    top: 6%;
-    left: 80%;
-    transform: rotate(20deg);
-}
-
-.CarmenBW .d4{
-    position: absolute;
-    top: 80%;
-    left: 70%;
-}
-
-.CarmenBW .d5{
-    position: absolute;
-    top: 40%;
-    left: 36%;
-    z-index: 3;
-}
-
-.CarmenBW .d6{
-    position: absolute;
-    top: 75%;
-    left: 4%;
-    transform: rotate(-40deg);
-    z-index: 11;
-}
-
-.CarmenBW .d7{
-    position: absolute;
-    top: 70%;
-    left: 40%;
-    z-index: 3;
-}
-
-.CarmenBW .d8{
-    position: absolute;
-    top: 30%;
-    left: 60%;
-    z-index: 0;
-}
